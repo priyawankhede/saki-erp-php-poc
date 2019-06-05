@@ -1,0 +1,26 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+int i;
+
+for(i<=50)
+{
+
+for(i=1;i=3;i++){
+if(i=3*3){
+cout<<i<<"=cloud";
+}
+}
+	
+
+}
+
+
+return 0;
+
+}
